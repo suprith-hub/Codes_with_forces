@@ -15,3 +15,9 @@
 ## More dumbness
 Overwhelmed by the name dutch national flag algorithm -> which is sorting 0,1,2 in O(n)
 Also, levenshtein_distance -> which is edit distance: DP
+
+
+## Sorting
+
+### Minimum swaps required to sort array - cysclic sort
+ - (if numbers arent contiguous, reduce it to contiguous mapping sorted order to 0 - N)
